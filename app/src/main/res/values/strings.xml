@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_fragment_1">Send Fragment 1</string>
+    <string name="button_fragment_2">Send Fragment 2</string>
+    <string name="button_main_activity">Send Main Activity</string>
+    <string name="message">Message</string>
+</resources>
